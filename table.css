@@ -1,0 +1,9 @@
+.x-pricing-table{margin-top:50px;}
+
+.x-pricing-column.featured h2{background-color:#008bbf!important;}
+
+.x-pricing-column.featured h2 span{color:#fff;opacity:1;}
+
+a.x-btn{background-color:#00afee;border-color:#008bbf;box-shadow:0 0.25em 0 0 #09689E,0 4px 9px rgba(0,0,0,0.75);}
+
+a.x-btn:hover{background-color:#008bbf;border-color:#002E41;box-shadow:0 0.25em 0 0 #002E41,0 4px 9px rgba(0,0,0,0.75);}
