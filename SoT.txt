@@ -6,6 +6,8 @@ Software Experience
   Confluence
   Expensify
   Marketo
+  Zendesk
+  Zen Payroll
 
 Experience in actions
   Database Queries
